@@ -1,0 +1,17 @@
+#player_1_input , #player_2_input{
+    display: inline-block;
+}
+#output{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid rgb(0, 56, 129);
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#holder1 , #holder2{
+    margin-bottom: 20px;
+    border-color: black;
+    border-width: 1.5px;
+}
